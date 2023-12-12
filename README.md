@@ -1,5 +1,5 @@
 # Frontend Mentor - QR code component
-
+(http://127.0.0.1:5500/index.html)
 ![Design preview for the QR code component coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
